@@ -2,6 +2,8 @@
 
 The Studierendenwerk finance dashboard: daily totals per mensa and per till, payments that need attention, transaction search with the full history of each payment, and CSV export.
 
+**Live:** https://zahln-dashboard.vercel.app (sign in with `finance` / `test1234`)
+
 Part of the Zahln Mensa take-home, together with [zahln-student](../zahln-student) and [zahln-till](../zahln-till). The design document is in [DESIGN.md](DESIGN.md).
 
 ## Run it
@@ -48,4 +50,4 @@ I made the architecture and design decisions. Claude Code was used as a coding a
 
 ## Test logins
 
-`finance` / `test1234`.
+`finance` / `test1234` on https://zahln-dashboard.vercel.app or locally.
